@@ -1,4 +1,4 @@
-1º Questão: V,V,V,V,V
+1º Questão: V,V,V,F,F
 2º Questão:
   2.1) Uma forma de resolver colisões em tabelas de hash é usar listas encadeadas.
        Nesse método, cada endereço da tabela de hash contém uma lista encadeada onde todas as chaves que colidem (ou seja, que resultam no mesmo índice a partir da função de hash) são armazenadas.
